@@ -1,0 +1,36 @@
+{
+	ambient 0.4 0.8 0.3
+	{
+		translate -70 120 80
+		rotate X 0
+		camera  -1 -1 1 1 -0.1 -200
+		depth 0 -200 (0 0 0)
+		{
+			translate -40 20 10
+			light 0.13, 0.5, 0.5, 1, 0
+			file "lightMarker"
+		}
+		
+		{
+			translate 100 0 -200
+			light 0.2, 0.1, 0.4, 1, 0
+			file "lightMarker"
+		}
+		
+		{
+			translate 20 -40 0
+			light 0.1, 0.1, 0.4, 1, 0
+			file "lightMarker"
+		}
+
+	}
+	
+	
+	phong 
+	surface 0.1 0.5 0.1 .4 16 
+	{
+		translate 0 0 -80
+		rotate Y -45
+		scale 0.75 0.75 0.75
+		obj "trex"
+	}
