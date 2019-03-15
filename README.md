@@ -12,7 +12,7 @@ The fourth and final step in rendering 3D geometry is to add lighting and render
 
 ## Project Highlights
 
-To see the a project overview and to dive into the math, check out [Lighting & Rendering](http://joshpatel.ca/cg4) at my portfolio [JoshPatel.ca](http://joshpatel.ca/).
+To see a project overview and to dive into the math, check out [Lighting & Rendering](http://joshpatel.ca/cg4) at my portfolio [JoshPatel.ca](http://joshpatel.ca/).
 
 ## Getting Started
 
